@@ -11,3 +11,4 @@
  11 ==> -B.
  
  The testbench contains 40 test case for most of the cases available for this circuit. 
+ Icarus verilog is used to develop and run this code.
